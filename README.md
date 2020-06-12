@@ -8,3 +8,7 @@ Project Team - Individual
 
 
 Model - https://node-red-dqwgr.eu-gb.mybluemix.net/ui/#!/0?socketid=yVh07Qcdpqc2pLuhAAAL
+
+
+Video Demonstration - https://youtu.be/rIXWvmAqqf8
+Please Use Headphone/Earphone for clear voice.
